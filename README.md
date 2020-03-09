@@ -1,2 +1,2 @@
 # Hackerrank-Problems
-Warm up problem solvings on hackerrank
+Solutions for warm-up problem solvings on hackerrank.
