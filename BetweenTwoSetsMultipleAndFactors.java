@@ -1,6 +1,5 @@
  public static int getTotalX(List<Integer> a, List<Integer> b) {
 		//// Approach
-
 		// 1. Find factors in b array (excluding value 1)
 		// 2. Count for all the factors found in b array, how many are a multiples of items in a array
 		// 3. If array a has value 1, increase the count as 1 is always a multiple and a factor fo any given number
